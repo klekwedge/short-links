@@ -4,6 +4,7 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Hero from '../Hero/Hero';
 import Form from '../Form/Form';
+import Shortens from '../Shortens/Shortens';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Hero />
       <Form />
+      <Shortens />
       <Features />
       <CallToAction />
       <Footer />
