@@ -4,7 +4,7 @@ import classes from './Button.module.scss';
 interface ButtonProps {
   onClick?: () => void;
   variant?: string;
-  size: string;
+  size?: string;
   children: React.ReactNode;
 }
 
