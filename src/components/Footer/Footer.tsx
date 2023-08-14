@@ -1,4 +1,4 @@
-import Logo from 'images/logo.svg';
+import Logo from "../../../public/img/logo.svg";
 import classes from './Footer.module.scss';
 
 import footerData from './data';

@@ -1,4 +1,4 @@
-import Img from 'images/illustration-working.svg';
+import Img from "../../../public/img/illustration-working.svg";
 import classes from './Hero.module.scss';
 import Button from '../Button/Button';
 

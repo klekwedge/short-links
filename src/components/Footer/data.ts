@@ -1,7 +1,7 @@
-import Facebook  from 'images/icon-facebook.svg';
-import Instagram  from 'images/icon-instagram.svg';
-import Pinterest  from 'images/icon-pinterest.svg';
-import Twitter  from 'images/icon-twitter.svg';
+import Facebook  from "../../../public/img/icon-facebook.svg";
+    import Instagram  from '../../../public/img/icon-instagram.svg';
+import Pinterest  from '../../../public/img/icon-pinterest.svg';
+import Twitter  from '../../../public/img/icon-twitter.svg';
 
 
 const footerData = {
